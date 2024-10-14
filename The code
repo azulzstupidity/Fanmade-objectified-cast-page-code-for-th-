@@ -1,0 +1,30 @@
+<!-- Image  -->
+<div class='row no-gutters' style="background-color: #242323; border-radius: 0px; border: 1px solid #242323; padding: 25px;">
+  
+      <div class='card p-0 col-md-4' style="background-color: #242323; border-radius: 0px; border: 3px solid #545454;">
+      <img src='https://f2.toyhou.se/file/f2-toyhou-se/images/89864628_lWQKxyOMLweU5Ll.png'>
+      </div>
+
+<!-- Character Info -->
+      <div class='card p-4 col-md-8' style="background-color: #242323; border-radius: 0px; border: 1px solid #242323; padding: 10px; font-family:'Oswald Medium', Sans-Serif;">
+<!-- Name (You need to get the hominid symbol from the objectified website, or draw the bestial symbol you need if there isn't a premade one already in the website, add them to the span boxes) -->
+        <p style="color: #8B8B8B; font-size: 38px; text-transform: uppercase; ">lorem ipsum
+
+      <!-- Hominid/Bestial -->
+          <span style="float: right;"><img src='https://static.wixstatic.com/media/34e15c_6214e28f2f424c8c91e78da7ace27567~mv2.png/v1/fill/w_67,h_67,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/hominid.png'></span>
+          
+      <!-- Affliction -->
+          <span style= "float: right;"><img src='https://static.wixstatic.com/media/34e15c_b1954b3ac523487883a18cc361d0c11d~mv2.png/v1/fill/w_67,h_67,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/INFESTED.png'></span> </p>
+          
+<!-- Gender & pronouns -->
+        <p style="color: #8B8B8B; font-size: 25px; text-transform: uppercase; ">Gender (pro/nouns)</p>
+        
+<!-- Description (After a certain amount of text lines the image border breaks, be careful) -->
+        <p style="color: #656565; font-size: 20px; max-width: 90%;">Lorem ipsum dolor sit amet. Ea vitae quos sed voluptate magni sit magni tempore. Aut facilis libero rem quia esse ut consectetur dolore est debitis earum ex placeat doloribus! Et sequi voluptatem qui autem quasi rem voluptate obcaecati aut voluptas aliquam est totam tempore non omnis quia est vero nobis.</p>
+      </div>
+      
+    </div>
+
+<!--Credits DO NOT REMOVE-->
+    <div> <a class="tooltipster" title="Code by Pest!" href=https://toyhou.se/azulzstupidity><i class="fa-solid fa-bug" style="color: #b88947;"></i></a> </div>
+</div>
